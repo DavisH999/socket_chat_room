@@ -1,0 +1,4 @@
+/home/cmpt201/units/long_assignments/a12-DavisH999/build/CMakeFiles/server.dir
+/home/cmpt201/units/long_assignments/a12-DavisH999/build/CMakeFiles/client.dir
+/home/cmpt201/units/long_assignments/a12-DavisH999/build/CMakeFiles/edit_cache.dir
+/home/cmpt201/units/long_assignments/a12-DavisH999/build/CMakeFiles/rebuild_cache.dir
